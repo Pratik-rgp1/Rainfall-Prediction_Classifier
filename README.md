@@ -50,4 +50,33 @@ After completing this project, you will be able to:
    ```bash
    git clone https://github.com/yourusername/rainfall-prediction-classifier.git
    cd rainfall-prediction-classifier
+🧰 Tools and Libraries Used
+Python 3.8+
 
+scikit-learn
+
+pandas
+
+matplotlib
+
+seaborn
+
+numpy
+
+📈 Visuals
+The notebook includes:
+
+Classification reports
+
+Confusion matrices
+
+Feature importance plots (for Random Forest)
+
+📚 Assignment Instructions
+This project was submitted as part of a final graded lab. After completing the notebook:
+
+Responses were pasted into the assignment markdown cells.
+
+Models were compared using appropriate evaluation metrics.
+
+Feature importances were analyzed and visualized.
