@@ -53,30 +53,30 @@ After completing this project, you will be able to:
 🧰 Tools and Libraries Used
 Python 3.8+
 
-scikit-learn
+> -scikit-learn
 
-pandas
+> -pandas
 
-matplotlib
+> -matplotlib
 
-seaborn
+> -seaborn
 
-numpy
+> -numpy
 
 📈 Visuals
 The notebook includes:
 
-Classification reports
+> -Classification reports
 
-Confusion matrices
+> -Confusion matrices
 
 Feature importance plots (for Random Forest)
 
 📚 Assignment Instructions
 This project was submitted as part of a final graded lab. After completing the notebook:
 
-Responses were pasted into the assignment markdown cells.
+> -Responses were pasted into the assignment markdown cells.
 
-Models were compared using appropriate evaluation metrics.
+> -Models were compared using appropriate evaluation metrics.
 
-Feature importances were analyzed and visualized.
+> -Feature importances were analyzed and visualized.
