@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is part of a final lab assignment focused on building a **machine learning classifier** to predict whether it will rain today. Using real-world weather data, we develop a robust pipeline, perform feature engineering, compare multiple models, and evaluate performance using various classification metrics.
+This project is part of a final lab assignment focused on building a **machine learning classifier** to predict whether it will rain today. Using real-world weather data, I develop a robust pipeline, perform feature engineering, compare multiple models, and evaluate performance using various classification metrics.
 
 > **Objective**: Predict "RainToday" as a binary classification problem using both Logistic Regression and Random Forest, and compare their effectiveness.
 
